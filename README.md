@@ -20,9 +20,9 @@
 - LeetCode problem-solving
 
 📫 How to reach me:  
-- Email: **[your-email@example.com]** *(Update this)*  
-- LinkedIn: [Add your link]  
-- Resume: [Add Google Drive or portfolio link]
+- Email: [Saivikaspampana@gmail.com]
+- LinkedIn: [www.linkedin.com/in/sai-vikas-pampana-2b8b17290]  
+- Resume: [https://drive.google.com/file/d/1NrfnHvKMIHdmlBRUQ-MitvmWKpFkFVhN/view?usp=sharing]
 
 📂 All of my projects are available at: [https://github.com/Sai-vikas-pampana](https://github.com/Sai-vikas-pampana)
 
